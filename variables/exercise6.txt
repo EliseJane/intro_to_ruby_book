@@ -1,0 +1,2 @@
+# The code attempts to call upon a local variable called 'shoes' which has
+#   not been defined or has only been defined within a smaller scope.

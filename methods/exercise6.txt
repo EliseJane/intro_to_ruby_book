@@ -1,0 +1,1 @@
+# Only one argument was entered into the calculate product method where two were required.

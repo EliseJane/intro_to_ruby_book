@@ -1,0 +1,2 @@
+# code executed in the "main" irb located in the ruby bin folder is missing an 
+# ending curly bracket, maybe has a closing parenthesis instead.
